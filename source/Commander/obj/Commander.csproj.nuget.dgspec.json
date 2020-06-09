@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/atiq/github-repositories/commands/source/Commander/Commander.csproj": {}
+    "/home/atiq/Workspace/github/MVC-REST-API/source/Commander/Commander.csproj": {}
   },
   "projects": {
-    "/home/atiq/github-repositories/commands/source/Commander/Commander.csproj": {
+    "/home/atiq/Workspace/github/MVC-REST-API/source/Commander/Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/atiq/github-repositories/commands/source/Commander/Commander.csproj",
+        "projectUniqueName": "/home/atiq/Workspace/github/MVC-REST-API/source/Commander/Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "/home/atiq/github-repositories/commands/source/Commander/Commander.csproj",
+        "projectPath": "/home/atiq/Workspace/github/MVC-REST-API/source/Commander/Commander.csproj",
         "packagesPath": "/home/atiq/.nuget/packages/",
-        "outputPath": "/home/atiq/github-repositories/commands/source/Commander/obj/",
+        "outputPath": "/home/atiq/Workspace/github/MVC-REST-API/source/Commander/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/atiq/.nuget/NuGet/NuGet.Config"
