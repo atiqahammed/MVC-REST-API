@@ -1,0 +1,7 @@
+### Database Information
+```
+SERVER = DESKTOP-E3C9927
+USERNAME = CommanderAPI
+PASSWORD = compass1212@
+
+```
