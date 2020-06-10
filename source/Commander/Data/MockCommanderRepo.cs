@@ -23,5 +23,15 @@ namespace Commander.Data
 			
 			return commads;
 		}
+
+		public bool SaveChanges()
+		{
+			throw new System.NotImplementedException();
+		}
+
+		public void CreateCommand(Command cmd)
+		{
+			throw new System.NotImplementedException();
+		}
 	}
 }
