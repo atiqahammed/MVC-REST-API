@@ -13,6 +13,7 @@ namespace Commander.Profiles
 			// target -> source
 			CreateMap<CommandCreateDto, Command>();
 			CreateMap<CommandUpdateDto, Command>();
+			CreateMap<Command, CommandUpdateDto>();
 		}
 	}
 }
